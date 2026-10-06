@@ -1,0 +1,6 @@
+{
+  "name": "AHMAD'S - House of Fashion",
+  "description": "Luxury Pakistani Couture, Luxury Formals, Chiffon, Velvet Festive & Bridal Collections online at ahmads.pk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
